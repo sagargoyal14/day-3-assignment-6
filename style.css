@@ -53,5 +53,7 @@ body {
   }
 
   .feature {
+      float: left;
       width: 200px;
+      display: inline;
   }
